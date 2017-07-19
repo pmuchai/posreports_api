@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 ﻿# POSReports
 
+This is a NodeJs Console Application in development using Microsoft Visual Studio to expose APIs secured using [JWT](https://www.npmjs.com/package/jsonwebtoken)
+
 
 =======
 # posreports_api
