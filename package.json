@@ -1,0 +1,17 @@
+{
+  "name": "posreports",
+  "version": "0.0.0",
+  "description": "POSReports",
+  "main": "app.js",
+  "author": {
+    "name": "HP",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "morgan": "^1.8.2",
+    "mssql": "^3.3.0"
+  }
+}
